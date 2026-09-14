@@ -162,6 +162,9 @@ https://www.yamada-holdings.jp/csr/report_esg.html
 #### [GRIスタンダード内容索引](https://www.yamada-holdings.jp/csr/report_gristandard.html?utm_source=chatgpt.com)
 https://www.yamada-holdings.jp/csr/report_gristandard.html
 
+#### [リスクマネジメント -YAMADA HOLDINGS-](https://www.yamada-holdings.jp/csr/csr505.html)
+https://www.yamada-holdings.jp/csr/csr505.html
+
 https://www.yamada-holdings.jp/csr/csr505.html
 - グループ会社を含むリスク管理体制を構築し、リスク管理委員会を毎月開催、その内容を取締役会へ報告するとしています。また「考えられるリスクを網羅的に洗い出し」、発生頻度・影響度を評価して対応すると公表しています。住宅についても「住宅の品質保証に関するリスク」を主要リスクとして掲げています。
 

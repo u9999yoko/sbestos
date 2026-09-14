@@ -41,7 +41,7 @@ https://laws.e-gov.go.jp/law/351AC0000000064/#Mp-Ch_3-At_14
 
  ## www.env.go.jp
 
-https://www.env.go.jp/content/900397116.pdf
+- https://www.env.go.jp/content/900397116.pdf
 - 行政へ「特定粉じん排出等作業届」を工事開始14日前に個別届出書を出す事務手続きは免除されるが、飛散防止作業の徹底と事前調査の報告義務は石綿事前調査結果報告システム
 
 ## shiga
@@ -52,7 +52,7 @@ https://www.pref.shiga.lg.jp/file/attachment/5103655.pdf
 
 ## otsu
 
-kensetu_tebiki_202306.pdf
+- kensetu_tebiki_202306.pdf
 ### （７）周囲への配慮
 - 建設作業実施の際は周辺の生活環境の保全に十分配慮しましょう 。
 - 1．工事着工前には周辺住民に対して、説明会 、 ビラ配布 、掲示板 等により、工事方法・ 工
@@ -65,3 +65,16 @@ kensetu_tebiki_202306.pdf
 - ・ **重機等による廃材の落下などは行わず、適切な搬出作業を行う。**
 - ・ **機材や資材の搬出入、資材の積み下ろしの作業等について、丁寧な作業を行う。**
 - ・ **散水や覆い等を行 い、 粉じんの飛散 を 防止 する 。**』
+
+## 不動産会社
+
+### yamadahomes
+- https://yamadahomes.jp/products/flow/
+- 10. 解体工事・地盤調査
+- 近隣挨拶および建物解体工事に着手します
+
+- https://yamadahomes.jp/reform/qa/?\\_gl=1\\*1ydc9dr\\*\\_gcl\\_au\\*OTE0NjYzNzE1LjE3ODkyMDg3MjUuLS4tLjE3ODkyMDg3MjUuMjA3ODYxNDYwOC4xNzg5MjA4NzI1LjE3ODkyMTAzMjc.\\*\\_ga\\*MTI1MTA4NTU3LjE3ODkyMTA0MjU.\\*\\_ga\\_3MJQXMD5BR\\*czE3ODkyMTA0MjUkbzEkZzEkdDE3ODkyMTA5MzQkajQ3JGwwJGgyMTAwMTQ3Mjg5&\\_ga=2.223914648.2067209537.1789210425-125108557.1789210425
+
+- 近隣に対する騒音や解体音などが発生しますか？
+- 工事の状況により異なりますが、ご近隣への配慮はもちろん必要ですので、弊社の担当もご近隣へのご挨拶を、工事前はもちろん必要に応じて工事中・工事後にさせていただきます。\
+解体の際に出る音やほこりは作業内容に応じて差が生じますが、養生をしてもどうしても発生してしまいます。期間中はご了承頂きますように近隣の方にご協力をお願いしております。

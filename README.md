@@ -44,6 +44,12 @@ https://laws.e-gov.go.jp/law/351AC0000000064/#Mp-Ch_3-At_14
 https://www.env.go.jp/content/900397116.pdf
 - 行政へ「特定粉じん排出等作業届」を工事開始14日前に個別届出書を出す事務手続きは免除されるが、飛散防止作業の徹底と事前調査の報告義務は石綿事前調査結果報告システム
 
+## shiga
+
+https://www.pref.shiga.lg.jp/file/attachment/5103655.pdf
+- なお、標示板の設置にあたっては、別表様式2「迂回路標示. 板」の例に基づくものとする。 （工事現場における工事情報看板
+- ページが見つかりません
+
 ## otsu
 
 kensetu_tebiki_202306.pdf

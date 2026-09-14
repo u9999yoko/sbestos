@@ -8,6 +8,7 @@ https://www.ishiwata.mhlw.go.jp/
 
 - 厚労省は、施工業者（元請事業者）が原則として工事対象箇所すべての材料について事前調査を行い、書面調査→目視調査→必要に応じて分析調査という流れを示しています。一定規模以上の解体では、その結果を電子システムで報告します。
 
+### 小規模工事等の着工前に必要な手続きについて | 石綿総合情報ポータルサイト
 - https://www.ishiwata.mhlw.go.jp/procedures/
 - https://www.ishiwata.mhlw.go.jp/pdf/asbestos-removal-work-signboard-format.pdf
 

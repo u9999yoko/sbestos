@@ -73,6 +73,8 @@ https://laws.e-gov.go.jp/law/351AC0000000064/#Mp-Ch_3-At_14
 ### 国土交通省 スマートフォンサイト
 - https://www.skr.mlit.go.jp/etc/doboku_manual/doboku_manual_r7_3.pdf
 
+- https://www.mlit.go.jp/totikensangyo/const/1_6_bt_000268.html
+
 ## shiga
 
 https://www.pref.shiga.lg.jp/file/attachment/5103655.pdf
@@ -106,6 +108,9 @@ https://www.pref.shiga.lg.jp/file/attachment/5103655.pdf
 ### 産業廃棄物対策課／大津市
 - https://www.city.otsu.lg.jp/soshiki/030/1710/index.html
 - 産業廃棄物対策課で、マニフェスト交付状況報告や産業廃棄物処理業者の指導等を扱っています。
+
+### 情報公開請求
+- https://www.city.otsu.lg.jp/shisei/joh/joh/9396.html
 
 ## 不動産会社
 

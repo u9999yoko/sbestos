@@ -75,6 +75,12 @@ https://laws.e-gov.go.jp/law/351AC0000000064/#Mp-Ch_3-At_14
 
 - https://www.mlit.go.jp/totikensangyo/const/1_6_bt_000268.html
 
+### 土木工事書類作成マニュアル
+- https://www.skr.mlit.go.jp/etc/doboku_manual/doboku_manual_r7_3.pdf
+
+### 不動産業：宅地建物取引業法　法令改正・解釈について - 国土交通省
+- https://www.mlit.go.jp/totikensangyo/const/1_6_bt_000268.html?
+
 ## shiga
 
 https://www.pref.shiga.lg.jp/file/attachment/5103655.pdf

@@ -5,10 +5,12 @@
 ## 内閣府
 [https://www8.cao.go.jp/chosei/koubun/hourei/kanri-gl.pdf](https://www8.cao.go.jp/chosei/koubun/hourei/kanri-gl.pdf)
 
-## 
+## 厚生労働省
 
 [解体工事等における石綿ばく露等防止対策に関する説明会](https://jsite.mhlw.go.jp/shiga-roudoukyoku/content/contents/002540564.pdf?utm_source=chatgpt.com)
 [・石綿障害予防規則(◆平成17年02月24日厚生労働省令第21号)](https://www.mhlw.go.jp/web/t_doc_keyword?dataId=74aa6787&dataType=0&keyword=%E7%9F%B3%E7%B6%BF%E9%9A%9C%E5%AE%B3&mode=0&pageNo=1&utm_source=chatgpt.com)
+
+https://www.mhlw.go.jp/web/t_doc?dataId=00tc7219&dataType=1&pageNo=1
 
 ## 石綿ポータルサイト
 
@@ -76,6 +78,9 @@ https://laws.e-gov.go.jp/law/351AC0000000064/#Mp-Ch_3-At_14
 
 ### 産業廃棄物管理票（マニフェスト）制度
 - https://www.env.go.jp/content/900529472.pdf
+  
+### [環境省](https://www.env.go.jp/air/air/osen/R1-Main17.pdf?utm_source=chatgpt.com)
+- 一方、大気汚染防止法側の元請業者の事前調査記録等は、**解体等工事が終了した日から3年間**です。()
 
 ## mlit.go.jp
 

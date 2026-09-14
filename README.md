@@ -152,6 +152,21 @@ https://www.pref.shiga.lg.jp/file/attachment/5103655.pdf
 
 ### yamada-holdings
 
+#### ヤマダホールディングス 統合報告書（2023～2025年）
+https://www.yamada-holdings.jp/csr/report_archive.html
+#### ヤマダホールディングス 有価証券報告書
+https://www.yamada-holdings.jp/ir/securities.html
+#### ヤマダホールディングス ESGデータ集
+https://www.yamada-holdings.jp/csr/report_esg.html
+#### ヤマダホールディングス GRIスタンダード内容索引
+https://www.yamada-holdings.jp/csr/report_gristandard.html
+
+ttps://www.yamada-holdings.jp/csr/pdf/report_archive/report2023_all_2p.pdf
+https://www.yamada-holdings.jp/csr/pdf/report_archive/report2025_all_1p.pdf
+https://www.yamada-holdings.jp/csr/report_gristandard.html
+https://www.yamada-holdings.jp/csr/report_esg.html
+www.yamada-holdings.jp/ir/securities.html
+
 #### ヤマダホールディングスグループ行動規範
 - https://www.yamada-holdings.jp/info/policy/code-of-conduct.html
 - ヤマダホールディングスグループは、経営理念「創造と挑戦」「感謝と信頼」をもとに役員および従業員が「行動規範」を遵守し、全てのステークホルダーとの信頼関係構築に努め、社会に求められる企業であり続けます。
@@ -159,11 +174,12 @@ https://www.pref.shiga.lg.jp/file/attachment/5103655.pdf
 #### 環境方針
 - https://www.yamada-holdings.jp/info/policy/csr-ethics.html
 - マダホールディングスグループは、製造・建築・販売・配送・設置工事・回収・リサイクル・再販売・廃棄にいたるまでの製品ライフサイクルのすべてをグループ内で完結する、独自の事業モデルを構築しています。当社グループのバリューチェーンにおける環境課題を深く理解し、サーキュラーエコノミーの高度化を図り、環境の保護および持続可能な社会の実現に邁進します。当社グループの事業では多様な資源を使用しており、気候変動と生物多様性への対応は必要不可欠であると認識しています。
-
 - 3-(1)-② 環境配慮型製品の販売促進
 - 店舗や物流拠点における、環境配慮型製品・素材の導入をはじめ、商品やサービスにおいても環境に配慮したもののご提供を推進します。
 - 3-(1)-③ 資源循環と廃棄物削減
 - 廃棄物の削減を通じてサーキュラーエコノミー（循環経済）への取り組み
+
+- https://www.yamada-holdings.jp/csr/csr506.html
 
 - https://www.yamada-holdings.jp/info/policy/environmental.html
 - 1.環境マネジメントシステム

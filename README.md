@@ -12,7 +12,7 @@ https://www.ishiwata.mhlw.go.jp/
 - https://www.ishiwata.mhlw.go.jp/pdf/asbestos-removal-work-signboard-format.pdf
 
 ### 石綿総合情報ポータル「工事の元請業者のみなさまへ」
-- https://www.ishiwata.mhlw.go.jp/business/prime-contractor/
+- https://www.ishiwata.mhlw.go.jp/business/prime-contractor/https://www.env.go.jp/content/900529472.pdf
 
 ### 石綿総合情報ポータル「発注者・施主」
 - https://www.ishiwata.mhlw.go.jp/customer/
@@ -60,11 +60,12 @@ https://laws.e-gov.go.jp/law/351AC0000000064/#Mp-Ch_3-At_14
 - 機械や器具、高い場所からの転落、飛来・落下物による危険を防止するために必要な措置を講じることが事業者に義務付けられています。
 - 大気汚染防止法（一般粉じんが発生する作業）：解体作業における粉じん飛散を防止するため、作業時の継続的な散水や散塵防止の措置（養生シートによる遮蔽）が求められます。
 
- ## www.env.go.jp
+## www.env.go.jp
 
 - https://www.env.go.jp/content/900397116.pdf
 - 行政へ「特定粉じん排出等作業届」を工事開始14日前に個別届出書を出す事務手続きは免除されるが、飛散防止作業の徹底と事前調査の報告義務は石綿事前調査結果報告システム
 
+### 産業廃棄物管理票（マニフェスト）制度
 - https://www.env.go.jp/content/900529472.pdf
 
 ## shiga
@@ -97,6 +98,7 @@ https://www.pref.shiga.lg.jp/file/attachment/5103655.pdf
 - ・ **機材や資材の搬出入、資材の積み下ろしの作業等について、丁寧な作業を行う。**
 - ・ **散水や覆い等を行 い、 粉じんの飛散 を 防止 する 。**』
 
+### 産業廃棄物対策課／大津市
 - https://www.city.otsu.lg.jp/soshiki/030/1710/index.html
 - 産業廃棄物対策課で、マニフェスト交付状況報告や産業廃棄物処理業者の指導等を扱っています。
 

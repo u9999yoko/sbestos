@@ -2,6 +2,9 @@
 
 ## URL
 
+## 内閣府
+[https://www8.cao.go.jp/chosei/koubun/hourei/kanri-gl.pdf](https://www8.cao.go.jp/chosei/koubun/hourei/kanri-gl.pdf)
+
 ## 石綿ポータルサイト
 
 https://www.ishiwata.mhlw.go.jp/

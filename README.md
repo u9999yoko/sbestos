@@ -69,6 +69,9 @@ https://laws.e-gov.go.jp/law/351AC0000000064/#Mp-Ch_3-At_14
 ### 産業廃棄物管理票（マニフェスト）制度
 - https://www.env.go.jp/content/900529472.pdf
 
+### 国土交通省 スマートフォンサイト
+- https://www.skr.mlit.go.jp/etc/doboku_manual/doboku_manual_r7_3.pdf
+
 ## shiga
 
 https://www.pref.shiga.lg.jp/file/attachment/5103655.pdf

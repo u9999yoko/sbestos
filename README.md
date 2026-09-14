@@ -155,7 +155,9 @@ https://www.yamada-holdings.jp/csr/csr505.html
 
 https://www.yamada-holdings.jp/info/policy/environmental.html
 - 環境面では、環境法令の遵守、環境負荷低減、汚染予防、廃棄物削減、取引先・ビジネスパートナーとの取組強化、ステークホルダーへの情報開示・コミュニケーションを自ら方針化しています。
-  
+
+https://www.yamada-holdings.jp/csr/csr506.html
+- さらにサプライチェーン管理では、商品・サービスが多数の法人を経由することを前提として、**「どの過程においても各種法令が遵守され、環境・社会・倫理面で問題のないもの」**を提供すべきとの考えを明記しています。取引先のESGリスクについて、アンケート→分析→対話→改善案→必要に応じた是正措置まで公表しています。
 
 #### ヤマダホールディングス 統合報告書（2023～2025年）
 https://www.yamada-holdings.jp/csr/report_archive.html

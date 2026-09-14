@@ -152,6 +152,13 @@ https://www.pref.shiga.lg.jp/file/attachment/5103655.pdf
 
 ### yamada-holdings
 
+https://www.yamada-holdings.jp/csr/csr505.html
+- グループ会社を含むリスク管理体制を構築し、リスク管理委員会を毎月開催、その内容を取締役会へ報告するとしています。また「考えられるリスクを網羅的に洗い出し」、発生頻度・影響度を評価して対応すると公表しています。住宅についても「住宅の品質保証に関するリスク」を主要リスクとして掲げています。
+
+https://www.yamada-holdings.jp/info/policy/environmental.html
+- 環境面では、環境法令の遵守、環境負荷低減、汚染予防、廃棄物削減、取引先・ビジネスパートナーとの取組強化、ステークホルダーへの情報開示・コミュニケーションを自ら方針化しています。
+  
+
 #### ヤマダホールディングス 統合報告書（2023～2025年）
 https://www.yamada-holdings.jp/csr/report_archive.html
 #### ヤマダホールディングス 有価証券報告書
@@ -161,7 +168,8 @@ https://www.yamada-holdings.jp/csr/report_esg.html
 #### ヤマダホールディングス GRIスタンダード内容索引
 https://www.yamada-holdings.jp/csr/report_gristandard.html
 
-ttps://www.yamada-holdings.jp/csr/pdf/report_archive/report2023_all_2p.pdf
+#### 統合報告書2023_見開き
+https://www.yamada-holdings.jp/csr/pdf/report_archive/report2023_all_2p.pdf
 https://www.yamada-holdings.jp/csr/pdf/report_archive/report2025_all_1p.pdf
 https://www.yamada-holdings.jp/csr/report_gristandard.html
 https://www.yamada-holdings.jp/csr/report_esg.html

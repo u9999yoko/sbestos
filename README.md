@@ -12,6 +12,13 @@ https://www.ishiwata.mhlw.go.jp/business/prime-contractor/
 ### 石綿総合情報ポータル「発注者・施主」
 - https://www.ishiwata.mhlw.go.jp/customer/
 
+### 築物等の解体等の作業に関するお知らせ
+- https://www.ishiwata.mhlw.go.jp/pdf/asbestos-removal-work-signboard-format.pdf
+- 石綿障害予防規則第4条の2及び大気汚染防止法第18条の15第6項の規定による事前調査結果の報告を行っております。
+- 労働安全衛生法、石綿障害予防規則、大気汚染防止法及び条例等に基づく調査結果をお知らせします。
+注)工事に係る部分の床面積の合計が80m2以上の建築物の解体工事
+
+
 ## e-Gov
 
 ### 騒音規制法

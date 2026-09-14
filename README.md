@@ -5,6 +5,11 @@
 ## 内閣府
 [https://www8.cao.go.jp/chosei/koubun/hourei/kanri-gl.pdf](https://www8.cao.go.jp/chosei/koubun/hourei/kanri-gl.pdf)
 
+## 
+
+[解体工事等における石綿ばく露等防止対策に関する説明会](https://jsite.mhlw.go.jp/shiga-roudoukyoku/content/contents/002540564.pdf?utm_source=chatgpt.com)
+[・石綿障害予防規則(◆平成17年02月24日厚生労働省令第21号)](https://www.mhlw.go.jp/web/t_doc_keyword?dataId=74aa6787&dataType=0&keyword=%E7%9F%B3%E7%B6%BF%E9%9A%9C%E5%AE%B3&mode=0&pageNo=1&utm_source=chatgpt.com)
+
 ## 石綿ポータルサイト
 
 https://www.ishiwata.mhlw.go.jp/
@@ -121,6 +126,9 @@ https://www.pref.shiga.lg.jp/file/attachment/5103655.pdf
 
 ### 情報公開制度について／大津市
 - https://www.city.otsu.lg.jp/shisei/joh/joh/9396.html
+
+### 
+- https://www.city.otsu.lg.jp/material/files/group/109/toushin83.pdf
 
 ## 不動産会社
 

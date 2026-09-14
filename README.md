@@ -23,7 +23,6 @@ https://www.ishiwata.mhlw.go.jp/business/prime-contractor/
 - 労働安全衛生法、石綿障害予防規則、大気汚染防止法及び条例等に基づく調査結果をお知らせします。
 注)工事に係る部分の床面積の合計が80m2以上の建築物の解体工事
 
-
 ## e-Gov
 
 ### 騒音規制法
@@ -65,6 +64,8 @@ https://laws.e-gov.go.jp/law/351AC0000000064/#Mp-Ch_3-At_14
 
 - https://www.env.go.jp/content/900397116.pdf
 - 行政へ「特定粉じん排出等作業届」を工事開始14日前に個別届出書を出す事務手続きは免除されるが、飛散防止作業の徹底と事前調査の報告義務は石綿事前調査結果報告システム
+
+- https://www.env.go.jp/content/900529472.pdf
 
 ## shiga
 

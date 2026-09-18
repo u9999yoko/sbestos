@@ -59,6 +59,7 @@
 - 受付時期　2021年11月1日0時00分 ～
 - 署名可能な証明書　商業登記
 - https://apply.e-tumo.jp/city-otsu-u/profile/userLogin_initDisplay?nextURL=CqTLFdO4voZMGpQYomE2MN7dRrdLP0zYtUINsUzZVMv6Lqnyj%2Fk5ZInCsGxLpm5fbCk8ltN9kJfE%0D%0AYihjLHJr0yHtXQ9lq2cnALAK40JxCEU%3DXdD%2Fd0t7gIo%3D%0D%0A.ldHRyjM%2F%2BqeRfavbwYLsWRVKM226APW77H07YceTOg0%3D
+- kensetu_tebiki_202306.pdf
   
 ### 産業廃棄物関係記録
 https://www.env.go.jp/hourei/11/000101.html

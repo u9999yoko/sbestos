@@ -52,6 +52,12 @@
   - 位置図
   - 作業工程表
 - 解体で使用した機械・作業が騒音規制法、振動規制法または大津市条例上の「特定建設作業」に該当した場合、元請業者は作業開始7日前までに大津市長へ届出が必要です。2023年版の大津市手引きにも明記されています。
+- 利用者ログイン
+- 手続き情報
+- 手続き名
+- 特定建設作業実施届出
+- 受付時期　2021年11月1日0時00分 ～
+- 署名可能な証明書　商業登記
 - https://apply.e-tumo.jp/city-otsu-u/profile/userLogin_initDisplay?nextURL=CqTLFdO4voZMGpQYomE2MN7dRrdLP0zYtUINsUzZVMv6Lqnyj%2Fk5ZInCsGxLpm5fbCk8ltN9kJfE%0D%0AYihjLHJr0yHtXQ9lq2cnALAK40JxCEU%3DXdD%2Fd0t7gIo%3D%0D%0A.ldHRyjM%2F%2BqeRfavbwYLsWRVKM226APW77H07YceTOg0%3D
   
 ### 産業廃棄物関係記録
